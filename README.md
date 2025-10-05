@@ -38,7 +38,7 @@ Finbot is a chatbot designed to provide tailored financial advice and services t
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/VIKKIII2269/Finbot.git
+    git clone https://github.com/Diveshrao1708/Finance-ChatBot-NLP
     cd Finbot
     ```
 
